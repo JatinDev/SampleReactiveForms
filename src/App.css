@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.menu-active {
+    font-size: large; 
+    color: red;   
+}
+
+.menu-inactive {
+    font-size: medium;
+}
